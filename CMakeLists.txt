@@ -75,6 +75,7 @@ set(FlatBuffers_Sample_Text_SRCS
   include/flatbuffers/idl.h
   include/flatbuffers/util.h
   src/idl_parser.cpp
+  src/idl_gen_general.cpp
   src/idl_gen_text.cpp
   src/util.cpp
   samples/sample_text.cpp
